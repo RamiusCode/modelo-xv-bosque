@@ -10,7 +10,7 @@ export default defineConfig({
      layout quedan con rutas relativas y WhatsApp no encuentra la imagen:
      la vista previa sale sin miniatura.
   */
-  site: 'https://mis-xv-estefany-2026.vercel.app',
+  site: 'https://modelo-xv-bosque.vercel.app',
   vite: {
     plugins: [tailwindcss()]
   }
